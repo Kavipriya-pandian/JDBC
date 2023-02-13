@@ -42,7 +42,7 @@ public class Management_System {
 	   // variables
 	   private static   final String url = "jdbc:mysql:///book_management";
 	   private static final String user = "root";
-	   private static  final String password = "Kavipriya4900";
+	   private static  final String password = "root";
 	   // SQL Query
 	   private static final String INSERT_book_QUERY =
 	                "INSERT INTO book VALUES (?,?,?,?)";
